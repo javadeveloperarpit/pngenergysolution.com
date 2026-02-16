@@ -1,0 +1,10 @@
+body{
+	--e-global-color-primary					: #0E0D1B;
+    --e-global-color-secondary					: #F2F4E9;
+    --e-global-color-text						: #737577;
+    --e-global-color-accent						: #96D055;
+    --e-global-color-5cb28f3					: #FFFFFF;
+    --e-global-color-f703b73					: #E8E8E8;
+    --e-global-color-5cd0d1e					: #FFFFFF20;
+    --e-global-typography-primary-font-family	: "Plus Jakarta Sans", sans-serif;
+}
